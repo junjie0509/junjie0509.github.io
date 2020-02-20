@@ -703,6 +703,10 @@ footer {
     padding: 82px 62px;
     min-height: 350px;
   }
+
+  .about-service-text {
+    padding: 32px 0;
+  }
 }
 
 
