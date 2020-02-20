@@ -707,6 +707,14 @@ footer {
   .about-service-text {
     padding: 32px 0;
   }
+
+  .project-detail-links {
+    padding-left: 20px;
+  }
+
+  .project-detail-info {
+    padding-bottom: 30px;
+  }
 }
 
 
@@ -735,7 +743,7 @@ footer {
   }
 
   #project-detail .col-md-6 img {
-    margin-bottom: 42px;
+    margin-bottom: 12px;
   }
 
   #project-detail .col-md-4 .project-detail-info {
