@@ -723,6 +723,7 @@ footer {
 
   .navbar-default .navbar-brand {
     line-height: 15px;
+    padding: 30px 30px 0 30px;
   }
 
   .navbar-default .nav li a {
